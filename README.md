@@ -31,4 +31,4 @@ This project focuses on predicting salaries in the field of data science. The da
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/data-science-salaries-prediction.git
+   git clone https://github.com/AmineRaouane/Data_Science_Salaries_Prediction.git
