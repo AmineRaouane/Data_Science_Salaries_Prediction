@@ -1,7 +1,7 @@
 # Data Science Salaries Prediction
 
 ## Overview
-This project focuses on predicting salaries in the field of data science. The dataset used for this prediction is [provide_dataset_name]. Various Python libraries such as Pandas, NumPy, Matplotlib, Scikit-Learn, and Seaborn are employed for data analysis, visualization, and machine learning model development. Jupyter Notebook is used as the primary environment for code development and documentation.
+This project focuses on predicting salaries in the field of data science. The dataset used for this prediction is [jobs_in_data.csv]. Various Python libraries such as Pandas, NumPy, Matplotlib, Scikit-Learn, and Seaborn are employed for data analysis, visualization, and machine learning model development. Jupyter Notebook is used as the primary environment for code development and documentation.
 
 ## Features
 - Data cleaning and preprocessing
